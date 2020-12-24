@@ -1,0 +1,5 @@
+%tensorflow_version 2.x
+!pip uninstall -y tensorflow
+!pip install tensorflow-gpu==1.14.0
+!pip install Keras==2.2.4
+!pip install mrcnn
